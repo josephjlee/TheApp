@@ -1,0 +1,6 @@
+node_modules
+doc/
+theme/angular/
+theme/angular_new
+theme/html_laravel
+.vscode/
